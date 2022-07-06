@@ -1,0 +1,40 @@
+#Acblue1{
+    background-color: gray;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
+#Acblue2{
+    background-color: aqua;
+    height: 100px;
+    text-align: center;
+    width: 100px;
+    margin-bottom: 100px;
+}
+#Acblue21{
+    float: right;
+    width: 60%;
+    text-align: center;
+    height: 100%;
+}
+#Acblue22{
+    margin: 10px;
+    padding-top: 50px;
+    text-align: center;
+    height: 20%;
+    background-color: gray;
+}
+#acblue23{
+    background-color: gray;
+    text-align: center;
+    height: 30%;
+    padding-top: 50px;
+    margin: 10px;
+}
+#Acblue3{
+    width: 100%;
+    margin-top: 465px;
+    height: 40px;
+    text-align: center;
+    background-color: gray;
+}

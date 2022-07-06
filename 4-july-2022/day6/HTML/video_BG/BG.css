@@ -1,0 +1,22 @@
+#Acblue{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+    bottom: 0;
+    z-index: -1;
+    background-size: cover;
+    overflow: hidden;
+
+}
+#acblue2{
+    position: fixed;
+    text-align: left;
+    font-size: 65px;
+    min-width: 100%;
+    min-height: 100%;
+    height: auto;
+    width: auto;
+}
