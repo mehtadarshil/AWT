@@ -1,0 +1,90 @@
+*{font-size: 30px;
+font-weight: bold;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.main{
+    border: 2px solid black;
+    text-align: center;
+    display: inline-flex;
+    margin: 5px;
+    padding: 5px;
+    background-color: coral;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+.item1{
+    text-align: center;
+    background-color: blue;
+    color: black;
+    padding: 2px;
+    margin: 5px;
+      
+}
+.item2{
+    text-align: center;
+    background-color: aquamarine;
+    margin: 5px;
+    padding: 2px;
+}
+.item3{
+    text-align: center;
+    background-color: rgb(58, 180, 225);
+    margin: 5px;
+    padding: 2px;
+}
+.item4{
+    text-align: center;
+    background-color: rgb(31, 142, 98);
+    margin: 5px;
+    padding: 2px;
+}
+.item5{
+    text-align: center;
+    background-color: rgb(10, 238, 132);
+    margin: 5px;
+    padding: 2px;
+}
+.item6{
+    text-align: center;
+    background-color: rgb(148, 211, 23);
+    margin: 5px;
+    padding: 2px;
+}
+.item7{
+    text-align: center;
+    background-color: rgb(234, 216, 19);
+    margin: 5px;
+    padding: 2px;
+}
+.item8{
+    text-align: center;
+    background-color: rgb(227, 42, 13);
+    margin: 5px;
+    padding: 2px;
+}
+.item9{
+    text-align: center;
+    background-color: red;
+    margin: 5px;
+    padding: 2px;
+}
+.box1{
+    background-color: aqua;
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+}
+.box2{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+}
