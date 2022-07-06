@@ -1,0 +1,11 @@
+body{
+    align-self: center;
+}
+p{
+    color: aqua;
+    background-color: black;
+    border-radius:11px;
+    box-shadow: 5px 10px 10px #808080;
+    padding: 10px;
+    font-size: 60px;
+}

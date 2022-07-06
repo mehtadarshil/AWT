@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>css</title>
+        <style type="text/css">
+            
+            .divcls{
+                background-color: blueviolet;
+                font-size: 50px;
+                padding: 10px;
+                margin: 10px;
+                border-radius: 10px;
+                box-shadow: 5px 5px 10px;
+            }
+            .div2cls{
+                background-color: aqua;
+                color: black;
+                padding: 15px;
+                margin: 30px;
+                border-radius: 20px;
+                box-shadow: 5px 8px 15px;
+                animation: mymove 5s infinite;
+                font-size: 50px;
+            }
+            @keyframes mymove{
+                from{background-color: blue;}
+                to{background-color: aqua;}
+                from{border-radius: 0px;}
+                to{border-radius: 25px;}
+            }
+        </style>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="divcls">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, soluta!</div>
+        
+        <div class="div2cls">Lorem ipsum dolor sit amet.</div>
+        <hr>
+        
+        <p>Lorem ipsum dolor sit amet.</p>
+    </body>
+</html>

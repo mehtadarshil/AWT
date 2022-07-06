@@ -1,0 +1,87 @@
+.div1{
+    height: 100px;
+    width: 280px;
+    background-image: url("../image/1.jpg");
+    margin: 10px;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: mymoves 5s infinite;
+    font-weight: bold;
+    box-shadow: 5px 5px 10px #8080;
+    text-shadow: 5px 5px 10px #202020;
+    color: blue;
+    font-size: 40px;
+}
+.div2{
+    height: 100px;
+    width: 280px;
+    background-image: url("../image/2.jpg");
+    margin: 10px;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: mymoves 5s infinite;
+    font-weight: bold;
+    box-shadow: 5px 5px 10px #8080;
+    text-shadow: 5px 5px 10px #202020;
+    color: blue;
+    font-size: 40px;
+    
+}
+.div3{
+    height: 100px;
+    width: 280px;
+    margin: 10px;
+    background-image: url("../image/3.jpg");
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: mymoves 5s infinite;
+    font-weight: bold;
+    box-shadow: 5px 5px 10px #8080;
+    text-shadow: 5px 5px 10px #202020;
+    color: blue;
+    font-size: 40px;
+}
+
+.div4{
+    height: 100px;
+    margin: 10px;
+    width: 280px;
+    background-image: url("../image/4.jpg");
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: mymoves 5s infinite;
+    font-weight: bold;
+    box-shadow: 5px 5px 10px #8080;
+    text-shadow: 5px 5px 10px #202020;
+    color: blue;
+    font-size: 40px;
+}
+@keyframes mymoves{
+    from{opacity: 0;}
+    to{opacity: 1;}
+    
+}
+.div4:hover{
+    background-image: url("../image/1.jpg");
+}
+.div3:hover{
+    background-image: url("../image/2.jpg");
+}
+.div2:hover{
+    background-image: url("../image/3.jpg");
+}
+.div1:hover{
+    background-image: url("../image/4.jpg");
+}
