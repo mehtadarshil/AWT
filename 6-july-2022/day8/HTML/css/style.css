@@ -1,0 +1,23 @@
+input{
+    color: white;
+    background-color: rgb(30, 30, 240);
+    border-radius: 5px;
+    border: 0px;
+    font-size: 20px;
+    
+}
+body{
+    text-align: center;
+    
+}
+div{
+    height: 160px;
+    width: 170px;
+    background-color: aqua;
+    text-align: center;
+}
+button{
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: aqua;
+}
