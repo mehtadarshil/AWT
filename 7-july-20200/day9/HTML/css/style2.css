@@ -1,0 +1,148 @@
+.maindiv{
+    justify-content: space-between;
+    display: flex;
+    width: 97.5%;
+    height: 80px;
+    margin: 1%;
+}
+.sapimg{
+    height: 40px;
+    width: 80px;
+}
+.smalltext{
+    font-size: 12px;
+}
+.logo{
+    height: 68px;
+    width: 210px;
+}
+.mainimg{
+    background-image: url('../image/background.jpg');
+    height: 500px;
+    width: 99.8%;
+    background-color: aquamarine;
+}
+.uppertext{
+    font-size: 35px;
+    font-weight: lighter;
+}
+.lowertext{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(124, 12, 12);
+}
+.textcnt{
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.maincontent{
+    justify-content: space-between;
+    display: flex;
+    width: 97.5%;
+    height: 250px;
+    margin: 1%;
+}
+.smallimg{
+    height: 120px;
+    width: 150px;
+}
+.perc{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    margin: 5%;
+    padding-top: 10px;
+}
+.discri{
+    font-size: 15px;
+    color: white;
+}
+.greencard{
+    height: 140px;
+    width: 200px;
+    background-color: rgb(16, 78, 40);
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px;
+}
+.box1{
+    text-align: center;
+    padding-left: 250px;
+}
+.box2{
+    text-align: center;
+}
+.box3{
+    text-align: center;
+    padding-right: 250px;
+}
+.bottomcontent{
+    background-color: brown;
+    height: 300px;
+    width: 99%;
+    margin-top: 50px;
+    justify-content: space-between;
+    display: flex;
+}
+.listtile{
+    justify-content: flex-start;
+    display: flex;
+    height: 70px;
+    width: 300px;
+    margin: 20px;
+}
+.icons{
+    height: 40px;
+    width: 40px;
+    margin-right: 5px;
+    color: white;
+}
+.dark{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.smalldiscri{
+    font-size: 8px;
+    color: white;
+}
+.textbody{
+    margin-top: 5px;
+}
+.upbox2{
+    padding-right: 200px;
+    padding-top: 20px;
+}
+.upbox{
+    padding-left: 240px;
+    padding-top: 20px;
+}
+.hireing{
+    color: rgb(124, 12, 12);
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.maincomp{
+    justify-content: space-between;
+    display: flex;
+}
+.compimg{
+    height: 60px;
+    width: 80px;
+}
+.compcard{
+    box-shadow: 5px 5px 10px;
+    width: 150px;
+    height: 60px;
+    margin: 8px;
+    text-align: center;
+}
+.comprow1{
+    padding-left: 150px;
+}
+.comprow2{
+    padding-right: 150px;
+}

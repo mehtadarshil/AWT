@@ -1,0 +1,169 @@
+.div1{
+    width: 99.8%;
+    background-color: darkblue;
+    height: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    justify-content: space-between;
+    display: flex;
+    /* flex-wrap: wrap; */
+    align-items: center;
+}
+.div2{
+    font-size: 20px;
+    color: white;
+    /* flex-wrap: wrap; */
+    float: left;
+}
+.div3{
+    float: left;
+    text-align: end;
+    font-size: 20px;
+    color: white;
+    padding-right: 40px;
+}
+.main{
+    width: auto;
+    height: 300px;
+    border: 1px solid blue;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 10px;
+}
+.topline{
+    border-top: 5px solid darkblue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    justify-content: space-between;
+    display: inline-flex;
+    width: 100%;
+}
+.l1c1{
+    padding-top: 50px;
+    padding-left: 5px;
+    height: 190px;
+    display: flex;
+}
+.l1c2{
+    text-align: center;
+    padding-top: 85px;
+}
+.l1c3{height: 25px;
+    width: 50px;
+    padding-right: 150px;
+    padding-top: 100px;
+}
+.l3{
+    color:red;
+    padding-right: 20px;
+    text-align: end;
+}
+.home{
+    padding-right: 25px;
+}
+.home:hover{
+    color: darkorange;
+}
+.l4{
+    list-style: none;
+    width: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: aliceblue;
+    background-color: darkblue;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 10px;
+}
+.tbbar{
+    background-color: orange;
+    color: white;
+    font-size: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 220px;
+    text-align: center;
+    height: 50px;
+}
+.tableborder{
+    border: 1px solid orange;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 170px;
+}
+.tbc1{
+    text-align: center;
+}
+.bottomborder{
+    border-bottom: 1px solid orange;
+    color: blue;
+}
+.red1{
+    color: red;
+    font-weight: bold;
+}
+.bottombox{
+    border: 1px solid darkblue;
+    width: auto;
+    height: 300px;
+    justify-content: space-between;
+    display: flex;
+}
+.titletext{
+    font-size: 40px;
+}
+.textdiv{
+    text-align: start;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.button1{
+    color: white;
+    background-color: orange;
+    border: 0ch;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.buttondiv{
+    margin-top: 8px;
+}
+.inbutton{
+    margin: 10px;
+}
+.bluetext{
+    text-align: center;
+    padding: 5px;
+}
+.td2{
+    border-bottom: 1px solid orange;
+    text-align: center;
+    padding-top: 100px; 
+}   
+.tbbar2{
+    background-color: orange;
+    color: white;
+    font-size: 25px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 220px;
+    text-align: center;
+    height: 50px;
+    
+}
+.footerdiv{
+    text-align: center;
+    margin: 10px;
+    border: 1px solid darkblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+.whitetext{
+    color: white;
+}

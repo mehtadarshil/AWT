@@ -1,0 +1,23 @@
+.sizing{
+    height: 120px;
+    width: 200px;
+    margin: 1%;
+}
+.imgshow{
+    height: 480px;
+    width: 100%;
+}
+.imgcont{
+    justify-content: space-between;
+    
+}
+.main{
+ justify-content: space-between;
+ display: flex;  
+}
+.mainimg{
+    height: 480px;
+    width: 100%;
+    margin: 1%;
+    padding-bottom: 10px;
+}
