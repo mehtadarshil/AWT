@@ -1,0 +1,38 @@
+.inputname{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    border-color: blue;
+}
+.inputemail{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+    border-color: blue;
+}
+.inputcont{
+    height: 30px;
+    width: 190px;
+    border-radius: 10px;
+    border-color: blue;
+}
+.inputcontent{
+    height: 100px;
+    width: 400px;
+    border-radius: 10px;
+    border-color: blue;
+    border-width: 2px;
+}
+.submit{
+    background-color: blue;
+    border: 0ch;
+    color: aliceblue;
+    border-radius: 30px;
+    font-size: 17px;
+}
+.timepass{
+    margin: 8px;
+}
+.smalltext{
+    color: red;
+}
