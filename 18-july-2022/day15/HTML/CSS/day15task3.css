@@ -1,0 +1,6 @@
+.ui-state-default{
+    background-image: linear-gradient(rgb(29, 225, 222),rgb(112, 202, 205));
+    color: black;
+    list-style: none;
+    width: 800px;
+}

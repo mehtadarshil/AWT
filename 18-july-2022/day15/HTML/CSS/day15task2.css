@@ -1,0 +1,98 @@
+.main{
+    background-color: RGB(66, 36, 110);
+}
+.div1{
+    justify-content: space-between;
+    display: inline-flex;
+}
+.font1{
+    color: RGB(204, 164, 153);
+    font-size: 20px;
+    margin-top: 50px;
+}
+.maiindiv{
+    text-align: center;
+}
+.font2{
+    color: white;
+    font-size: 50px;
+    margin-top: 20px;
+}
+.maindiv2{
+    text-align: center;
+}
+.line1{
+    height: 2px;
+    background-color: RGB(204, 164, 153);
+    border-color: RGB(204, 164, 153);
+    width: 250px;
+    margin-top: 30px;
+}
+.container{
+    background-color: RGB(98, 67, 143);
+    height: 550px;
+    width: 450px;
+    text-align: center;
+}
+.startdiv{
+    text-align: left;
+    margin-left: 48px;
+}
+.poster{
+    justify-content: space-between;
+    display: inline-flex;
+}
+.img1{
+    margin-top: 20px;
+    width: 350px;
+}
+.font3{
+    color: RGB(204, 164, 153);
+    margin-top: 20px;
+    font-size: 40px;
+}
+.font4{
+    color: white;
+    width: 350px;
+    font-size: 20px;
+}
+.readmore{
+    background-color: RGB(239, 186, 80);
+    border-width: 0ch;
+    font-size: 15px;
+    font-weight: 700;
+    color: RGB(66, 36, 110);
+    box-shadow: 5px 5px 10px;
+}
+.buttonsize{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.mainposter{
+    text-align: center;
+    margin-top: 50px;
+}
+.container1{
+    background-color: RGB(98, 67, 143);
+    height: 550px;
+    width: 450px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.container2{
+    background-color: RGB(98, 67, 143);
+    height: 550px;
+    width: 450px;
+    text-align: center;
+}
+.divvv{
+    color: white;
+    margin-top: 20px;
+}
+.divvvv{
+    background-color: RGB(98, 67, 143);
+    width: 450px;
+}
