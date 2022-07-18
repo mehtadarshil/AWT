@@ -1,0 +1,12 @@
+.ui-dialog-title{
+    font-size: 20px;
+}
+.roundedborder{
+    border-radius: 10px;
+    border-color: #300bd2;
+    margin: 10px;
+    color: #300bd2;
+}
+.ui-widget-header {
+    background: #300bd2 50% 50% repeat-x !important;
+}
